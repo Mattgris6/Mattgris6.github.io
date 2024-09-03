@@ -2,6 +2,6 @@
   <pyqgis_plugin name="Atlas SGP" version="0.2">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
       <file_name>sgp_atlas</file_name>
-      <download_url>https://github.com/Mattgris6/FMP_sgp_atlas</download_url>
+      <download_url>http://Mattgris6.github.io/sgp_atlas.zip</download_url>
   </pyqgis_plugin>
 </plugins>
