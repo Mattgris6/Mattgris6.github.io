@@ -4,4 +4,9 @@
       <file_name>sgp_atlas</file_name>
       <download_url>http://Mattgris6.github.io/sgp_atlas.zip</download_url>
   </pyqgis_plugin>
+  <pyqgis_plugin name="Outil Z" version="0.2">
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+      <file_name>outil_z</file_name>
+      <download_url>http://Mattgris6.github.io/outil_z.zip</download_url>
+  </pyqgis_plugin>
 </plugins>
